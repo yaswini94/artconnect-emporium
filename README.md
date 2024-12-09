@@ -6,7 +6,7 @@ The technologies employed in building ArtConnect Emporium include React.js, HTML
 Firebase, the chosen database, employs a Scrypt hashing algorithm for robust data encryption for secure login.
 
 # Prerequisites:
-Node.js need to be installed in system before proceeding.
+Node.js need to be installed in system before proceeding. 
 
 # To run the application in visual studio:
 1) Clone the project
